@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devstacks-software-engineering-id-generator-mcp-badge.png)](https://mseep.ai/app/devstacks-software-engineering-id-generator-mcp)
+
 # ID Generator MCP
 [![smithery badge](https://smithery.ai/badge/@devstacks-software-engineering/id-generator-mcp)](https://smithery.ai/server/@devstacks-software-engineering/id-generator-mcp)
 
