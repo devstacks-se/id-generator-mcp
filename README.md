@@ -1,5 +1,5 @@
 # ID Generator MCP
-[![smithery badge](https://smithery.ai/badge/@devstacks-software-engineering/id-generator-mcp)](https://smithery.ai/server/@devstacks-software-engineering/id-generator-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.devstacks-se/id-generator-mcp)](https://lightnow.ai/servers/io.github.devstacks-se/id-generator-mcp)
 
 This is a Model Context Protocol (MCP) server that provides ID generation capabilities to AI assistants.
 
